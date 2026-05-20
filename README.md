@@ -78,16 +78,25 @@ I'm a back-end developer based in **Baku, Azerbaijan** with **5+ years of experi
 
 <p align="center">
   <a href="https://github.com/gsmat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gsmat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=333333&bg_color=ffffff" alt="Gismat's GitHub stats"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gsmat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=gsmat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Gismat's GitHub stats"/>
+    </picture>
   </a>
   <a href="https://github.com/gsmat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmat&layout=compact&hide_border=true&langs_count=8&title_color=1F3A5F&text_color=333333&bg_color=ffffff" alt="Top languages"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmat&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmat&layout=compact&hide_border=true&langs_count=8&title_color=1F3A5F&text_color=333333&bg_color=ffffff&cache_seconds=86400" alt="Top languages"/>
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gsmat">
-    <img src="https://streak-stats.demolab.com/?user=gsmat&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F&sideLabels=1F3A5F&dates=333333&background=ffffff" alt="GitHub streak"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gsmat&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+      <img src="https://streak-stats.demolab.com/?user=gsmat&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F&sideLabels=1F3A5F&dates=333333&background=ffffff&cache_seconds=86400" alt="GitHub streak"/>
+    </picture>
   </a>
 </p>
 
