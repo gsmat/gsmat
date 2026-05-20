@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Baku,%20Azerbaijan-1F3A5F?style=flat-square" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=gsmat&style=flat-square&color=1F3A5F" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=gsmat&style=flat-square&color=1F3A5F&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -36,6 +36,7 @@ I'm a back-end developer based in **Baku, Azerbaijan** with **5+ years of experi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -76,12 +77,24 @@ I'm a back-end developer based in **Baku, Azerbaijan** with **5+ years of experi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gsmat&show_icons=true&hide_border=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=333333&bg_color=ffffff" alt="Gismat's GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmat&layout=compact&hide_border=true&title_color=1F3A5F&text_color=333333&bg_color=ffffff" alt="Top languages"/>
+  <a href="https://github.com/gsmat">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gsmat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=333333&bg_color=ffffff" alt="Gismat's GitHub stats"/>
+  </a>
+  <a href="https://github.com/gsmat">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmat&layout=compact&hide_border=true&langs_count=8&title_color=1F3A5F&text_color=333333&bg_color=ffffff" alt="Top languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsmat&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F&background=ffffff" alt="GitHub streak"/>
+  <a href="https://github.com/gsmat">
+    <img src="https://streak-stats.demolab.com/?user=gsmat&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F&sideLabels=1F3A5F&dates=333333&background=ffffff" alt="GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gsmat">
+    <img src="https://github-profile-trophy.vercel.app/?username=gsmat&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+  </a>
 </p>
 
 ---
@@ -89,6 +102,7 @@ I'm a back-end developer based in **Baku, Azerbaijan** with **5+ years of experi
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [linkedin.com/in/gismathusein](https://www.linkedin.com/in/gismathusein/)
+- 📧 Email: gismathusein@gmail.com
 - 📍 Location: Baku, Azerbaijan
 - 📞 Phone: +994 50 721 09 10
 
